@@ -1,41 +1,25 @@
+# VIKTOR demo app
+Welcome to the source code of the VIKTOR demo app!
 
-# AutoCAD Web App
+This demo has been created to show (beginner) developers how a VIKTOR app looks like and to let them experience various 
+of its functionalities in the apps interface.
 
-This is an experimental web application that uses VIKTOR AI to integrate with AutoCAD. With this app, you can automate tasks in AutoCAD and access your drawings from anywhere with an internet connection.
+The source code of this app has been extensively documented (comments, docstrings, links) to teach you the basics of 
+writing VIKTOR apps within the code itself. It can be found in `app.py`.
 
-## Features
+Feel free to play around, change/remove/add app code and watch the outcome of the modifications in the app's interface 
+in your browser.
 
-- Seamless integration with AutoCAD through VIKTOR AI
-- User-friendly interface for easy navigation
-- Cloud-based storage for easy access to your drawings
-- Customizable workflows to fit your needs
+The full VIKTOR documentation can be found at <https://docs.viktor.ai/docs/welcome/>
 
-## Getting Started
+## Setting up your IDE for VIKTOR
+If you did not do this yet, instructions on how to set up your IDE (PyCharm / Visual Studio Code) for VIKTOR can be 
+found at <https://docs.viktor.ai/docs/create-apps/development-tools-and-tips/ide>
 
-To get started with the AutoCAD Web App, follow these steps:
+## About this file
+The README contains information about the app and is usually read first by developers looking for information. The 
+content is up to the creator, but usually includes one or more of the following:
 
-1. Sign up for a VIKTOR AI account on their website.
-2. Install the VIKTOR AI plugin for AutoCAD.
-3. Connect your AutoCAD account to VIKTOR AI.
-4. Clone this repository to your local machine.
-5. Install the necessary dependencies by running `npm install`.
-6. Start the server by running `npm start`.
-7. Open your web browser and navigate to `http://localhost:3000`.
-8. Start automating your tasks!
-
-## Examples
-
-Here are some examples of tasks you can automate with the AutoCAD Web App:
-
-- Generate 3D models from 2D drawings
-- Extract data from AutoCAD files and export to Excel
-- Automatically update drawing titles and labels
-- And much more!
-
-## Support
-
-
-
-## License
-
-The AutoCAD Web App is licensed under the MIT License. See LICENSE for more information.
+- A summary of the app and its functionalities.
+- Installation, configuration and operating instructions.
+- A list of known bugs, troubleshooting, FAQ
